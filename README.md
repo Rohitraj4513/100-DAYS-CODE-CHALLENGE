@@ -10,3 +10,6 @@ The goal of the Set Problem is to find a collection of unique elements from a da
 Set Theory: Union, Intersection, and Difference operations.
 Data Structures: Implementation using sets or arrays for optimal performance.
 Problem-Specific Rules: (Add here details specific to the challenge/problem you solved).
+
+DAY 2
+Here are some basic questions about dictionaries in Python
