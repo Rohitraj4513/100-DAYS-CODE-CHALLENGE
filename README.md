@@ -13,3 +13,7 @@ Problem-Specific Rules: (Add here details specific to the challenge/problem you 
 
 DAY 2
 Here are some basic questions about dictionaries in Python
+
+DAY 3
+
+Exception, try, catch, finally, throw, throws, error, runtime, compile, checked, unchecked, custom, handling, block, disrupt.
