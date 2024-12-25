@@ -15,3 +15,7 @@ Here are some basic questions about dictionaries in Python
 DAY 3
 
 Exception, try, catch, finally, throw, throws, error, runtime, compile, checked, unchecked, custom, handling, block, disrupt.
+
+DAY 4
+
+enumerate() adds a counter to an iterable, returning index and value, simplifying loops efficiently.
