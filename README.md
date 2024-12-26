@@ -19,3 +19,7 @@ Exception, try, catch, finally, throw, throws, error, runtime, compile, checked,
 DAY 4
 
 enumerate() adds a counter to an iterable, returning index and value, simplifying loops efficiently.
+
+DAY 5
+
+import and file i/o
