@@ -23,3 +23,8 @@ enumerate() adds a counter to an iterable, returning index and value, simplifyin
 DAY 5
 
 import and file i/o
+
+6  DAY
+
+Python Question 
+
