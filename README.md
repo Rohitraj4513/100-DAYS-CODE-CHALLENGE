@@ -34,6 +34,9 @@ Python Question
 
 9  DAY
 
-Function  Question 
+Python oop concept class
+
+10  DAY
+
 
 
