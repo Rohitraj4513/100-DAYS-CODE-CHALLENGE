@@ -38,5 +38,9 @@ Python oop concept class
 
 10  DAY
 
+Setter & Getterv
+
+11  DAY
+
 
 
