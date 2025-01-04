@@ -42,5 +42,8 @@ Setter & Getterv
 
 11  DAY
 
+CLASS METHODS
+
+12  DAY
 
 
