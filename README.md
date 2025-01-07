@@ -50,6 +50,8 @@ CLASS METHODS
 
 13  DAY
 
+CLASS METHODS
+
 14  DAY
 
 Super Keywors & Dunder Methods
