@@ -94,5 +94,9 @@ Dictionary & Set
 
 24 DAY
 
-babbule sort
+Bubble sort
+
+25 DAY
+
+Selection Sort 
 
