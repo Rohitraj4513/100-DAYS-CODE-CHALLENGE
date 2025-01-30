@@ -111,3 +111,7 @@ Merge Sort
 28 DAY
 
 Insertion Sort 
+
+28 DAY 
+
+In-Place QuickSort
