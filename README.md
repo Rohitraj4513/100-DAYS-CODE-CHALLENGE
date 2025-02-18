@@ -152,9 +152,14 @@ first occurrence binary search
 
 first Last occurrence binary search
 
-38
+38 DAY
 
 Rotated Sorted Array DAY
+
+39 DAY
+
+Count Occurrences in Sorted Array
+
 
 
 
