@@ -216,6 +216,10 @@ String Question
 
 Python Question 0-13
 
+55  DAY
+
+Python Question 13-20
+
 
 
 
