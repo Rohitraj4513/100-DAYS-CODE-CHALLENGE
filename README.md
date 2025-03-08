@@ -220,6 +220,10 @@ Python Question 0-13
 
 Python Question 13-20
 
+56  DAY
+
+Python Question 20-27
+
 
 
 
