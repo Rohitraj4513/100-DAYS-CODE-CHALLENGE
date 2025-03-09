@@ -224,6 +224,11 @@ Python Question 13-20
 
 Python Question 20-27
 
+57  DAY
+
+Python Question 27-31
+
+
 
 
 
