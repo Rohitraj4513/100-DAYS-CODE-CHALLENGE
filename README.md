@@ -212,21 +212,25 @@ String Question
 
 String Question
 
-54  DAY
+54 DAY
 
 Python Question 0-13
 
-55  DAY
+55 DAY
 
 Python Question 13-20
 
-56  DAY
+56 DAY
 
 Python Question 20-27
 
-57  DAY
+57 DAY
 
 Python Question 27-31
+
+58 DAY
+
+Python Question 31-36
 
 
 
