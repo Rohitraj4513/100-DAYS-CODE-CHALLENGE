@@ -252,6 +252,10 @@ Linked List Questions
 
 Python Questions 48-53
 
+64 DAY
+
+Python Questions 53-59
+
 
 
 
