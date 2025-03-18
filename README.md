@@ -260,6 +260,10 @@ Python Questions 53-59
 
 Python Questions 59-70
 
+66 DAY
+
+Python Questions 70-75
+
 
 
 
